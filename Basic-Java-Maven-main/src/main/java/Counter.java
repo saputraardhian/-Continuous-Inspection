@@ -12,7 +12,7 @@ public class Counter {
 
     public void increment() {
         count++;
-		int unused = 0;
+		
     }
 
     public void increaseBy(int i) {
